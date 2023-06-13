@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwani072
+- 👋 Hi, I’m @ASHWANI-SONI
 - 👀 I’m interested in competitive programming, software development
 - 🌱 I’m currently learning BTech CSE
 - 💞️ I’m looking to collaborate on ...
