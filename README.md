@@ -5,6 +5,6 @@
 - 📫 How to reach me mail me @ ashwanigeetanandsoni@gmail.com
 
 <!---
-ashwani072/ashwani072 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASHWANI-SONI/ASHWANI-SONI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
